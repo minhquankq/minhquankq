@@ -1,8 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Quan Vo - Mon 👋
+
+## I'm a Frontend Developer!
+- 🏙 I’m currently working on a [Line Corporation](https://linecorp.com/)!
+- 🌱 I’m interested with new tech 🤣
+- 👯 I'm ready to work more on parttime if it's fun project. 😝
+- ⚡ Fun fact: I love reading, gaming and travelling ✈
+
+### Connect with me:
+
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/vmquan)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/minhquankq)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/minhquankq/)
 
 <!--
-**minhquankq/minhquankq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
