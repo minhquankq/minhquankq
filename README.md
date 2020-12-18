@@ -1,10 +1,10 @@
 ### Hi there, I'm Quan Vo - Mon 👋
 
 ## I'm a Frontend Developer!
-- 🏙 I’m currently working on a [Line Corporation](https://linecorp.com/)!
+- 🏙 I’m currently working on a [Zalora](https://zalora.com/)!
 - 🌱 I’m interested with new tech 🤣
 - 👯 I'm ready to work more on parttime if it's fun project. 😝
-- ⚡ Fun fact: I love reading, gaming and travelling ✈
+- ⚡ Fun fact: I love gaming and travelling ✈
 
 ### Connect with me:
 
